@@ -37,9 +37,11 @@ You need to write the “delete_from” comment at the beginning of the block of
 #### Example:
 
 // delete_from
+
 sfeg
 ewgg
 wgwg
 gg
 rrgeh
+
 // delete_to
